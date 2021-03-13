@@ -111,3 +111,14 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 .env
+/.idea/.gitignore
+/.idea/sonarlint/
+/.idea/compiler.xml
+/.idea/dataSources.xml
+/.idea/encodings.xml
+/flyway.iml
+/.idea/artifacts/
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
