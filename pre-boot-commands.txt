@@ -1,0 +1,3 @@
+# create a database connection
+create-jdbc-connection-pool --datasourceclassname org.postgresql.ds.PGSimpleDataSource --restype javax.sql.DataSource --property databaseName=flyway:portNumber=0:user=flywayuser:password=flywaypassword:url='jdbc:postgresql://database/flyway' flyway
+create-jdbc-resource --connectionpoolid flyway jdbc/_flyway

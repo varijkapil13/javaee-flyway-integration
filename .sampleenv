@@ -1,0 +1,3 @@
+POSTGRES_PASSWORD=flywaypassword
+POSTGRES_USER=flywayuser
+POSTGRES_DB=flyway
